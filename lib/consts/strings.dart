@@ -1,0 +1,25 @@
+const appname = "ZenZone";
+const appversion = "Version 1.0.0";
+const credits = "@Aishna Pathak";
+const email = "Email";
+const emailHint = "admin@admin.com";
+const password = "Password";
+const passwordHint = "******";
+const retypePassword = "Retype Password";
+const name = "Name";
+const nameHint = "Aishna Pathak";
+const forgetPass = "Forget Password";
+const login = "Log in";
+const signup = "Sign Up";
+const createNewAccount = "or,create a new account";
+const loginWith = "Login with";
+const privacyPolicy = "Privacy Policy";
+const loggedin = "Logged in successfully";
+const loggedout = "Logged out successfully";
+const termAndCond = "Term and Conditions";
+const alreadyHaveAccount = "Already have an account ";
+
+const home = "Home",
+    affirmations = "Affirmations",
+    breathein = "BreatheIn",
+    journaling = "Journaling";

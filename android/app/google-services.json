@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "365758035398",
+    "project_id": "zenzone-b4685",
+    "storage_bucket": "zenzone-b4685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365758035398:android:6e7c38994173e72c92aec7",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365758035398-kil17qe5tct7a3patpodl4vrr6jsckd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom",
+            "certificate_hash": "0f453e56789d797c7c9da17aab3a1799098fcc7b"
+          }
+        },
+        {
+          "client_id": "365758035398-7cfhqva3n437f7gh9o9qphegf0krqmij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqcNM8tMa_7PFZ7AN9ipQ-W1bfwvyofGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365758035398-7cfhqva3n437f7gh9o9qphegf0krqmij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365758035398-8gqhl10han00opdcf2m1vbcbs6e3u3k6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecom.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
